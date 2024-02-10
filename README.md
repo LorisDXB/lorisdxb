@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am a student at Epitech in first year!
+
 I am currently working on a discord bot as a side project :)
 
 ### My current skills:
