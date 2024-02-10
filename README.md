@@ -2,7 +2,7 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=c, py, , lua, mysql, react, html, css, vim, git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c, py, lua, mysql, react, html, css, vim, git)](https://skills.thijs.gg)
 
 
 <!--
