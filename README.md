@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=c, py, , lua, mysql, react, html, css, vim, git)](https://skills.thijs.gg)
+
+
 <!--
 **LorisDXB/lorisdxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
