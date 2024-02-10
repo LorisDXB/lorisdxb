@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+I am a student at Epitech in first year!
+I am currently working on a discord bot as a side project :)
 
-
+### My current skills:
 [![My Skills](https://skills.thijs.gg/icons?i=c,py,lua,mysql,react,html,css,vim,git)](https://skills.thijs.gg)
 
 
