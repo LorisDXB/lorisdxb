@@ -2,7 +2,7 @@
 ### These are listed in a descending order according to my level in the said technology.
 
 - C
-- Lua
+- Lua / LuaU
 - Python
 - Rust
 - MySQL
