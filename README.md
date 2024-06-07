@@ -1,9 +1,14 @@
-### Hi there 👋
+### My current skills :
+# These are listed in a descending order according to my level in the said technology.
 
-I am a student at Epitech in first year!
+- C
+- Lua
+- Python
+- Rust
+- MySQL
+- HTML
+- CSS
 
-### My current skills:
-[![My Skills](https://skills.thijs.gg/icons?i=c,py,lua,mysql,react,html,css,vim,git)](https://skills.thijs.gg)
 
 
 <!--
