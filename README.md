@@ -1,5 +1,4 @@
 ## My current skills :
-### These are listed in a descending order according to my level in the said technology.
 
 - C
 - Lua / LuaU
